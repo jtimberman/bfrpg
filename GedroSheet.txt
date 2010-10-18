@@ -1,0 +1,46 @@
+Basics
+------
+
+- Names / Player: Gedro Keyforge / Joshua Timberman
+- Race / Sex: Dwarf / Male
+- Class: Thief / 1
+- XP: 0
+
+Ability Scores
+--------------
+
+- STR: 
+- INT: 
+- WIS: 
+- DEX: 
+- CON: 
+- CHA: 
+
+Combat Statistics
+-----------------
+
+- AC: 
+- HP: 
+- AB: 
+
+- Movement: 
+
+## Saving Throws
+
+Death Ray/Poison:
+Magic Wands:
+Paralysis/Stone:
+Dragon Breath:
+Rods/Staves/Spells:
+
+Possessions
+-----------
+
+Money: 
+Equipment:
+
+
+Weapon: AB: Damage: Range:
+
+Notes:
+
