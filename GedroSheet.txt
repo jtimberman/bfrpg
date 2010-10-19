@@ -3,6 +3,8 @@ Basics
 
 - Names / Player: Gedro Keyforge / Joshua Timberman
 - Race / Sex: Dwarf / Male
+- Diety: Shard
+- Alignment: Chaotic Neutral
 - Class: Thief / 1
 - XP: 0
 

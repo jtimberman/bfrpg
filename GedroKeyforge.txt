@@ -10,7 +10,7 @@ Background
 
 Gedro is a member of the Keyforge clan, living in a dwarven settlement in foothills near the human city.
 
-He is charged with seeking out new trap techniques and poisons to use for high ranking wizard-based merchant guild.
+He is charged with seeking out new trap techniques and poisons to use for high ranking wizard-based merchant guild. He has only taken this on as it will get him away from the dwarven stronghold and off on adventures where he can obtain riches to build the devices of his dreams.
 
 Personality
 -----------
@@ -20,3 +20,5 @@ Like many dwarves, Gedro is steadfast in loyalty to his clan and to his assigned
 He analyzes most situations with a practiced eye, or at least that is his goal to appear so. He's not deliberately dishonest, he just doesn't want to reveal that he might not know as much about a topic as it appears. This character flaw is one reason why he's being sent away from work in the clan's trade directly, so he can gain more experience in the wider world.
 
 He also tends toward kleptomania at times, especially for jewelry with small components that might be useful in a lock. The local guildmaster is experimenting with the use of light cascading through gems as a trigger mechanism for complex storage vaults, so this isn't entirely without merit.
+
+He does have very little regard for the structured laws of the typical Dwarven society, and would much rather spend his time pursuing his goal to develop the best, most dangerous locks and traps devised by dwarvenkind. While he does have a mission, it only serves his purpose of finding a way to riches and resources for research.
