@@ -1,39 +1,42 @@
 Basics
 ------
 
-- Names / Player: Gedro Keyforge / Joshua Timberman
-- Race / Sex: Dwarf / Male
-- Diety: Shard
-- Alignment: Chaotic Neutral
+- Name: Gedro Keyforge                 Player: Joshua Timberman
+- Race: Dwarf                          Gender: Male
+- Alignment: Chaotic Neutral           Diety:  Shard
+
 - Class: Thief / 1
 - XP: 0
 
-Ability Scores
---------------
-
-- STR: 
-- INT: 
-- WIS: 
-- DEX: 
-- CON: 
-- CHA: 
+Ability Scores                        Special Abilities
+--------------                        -----------------
+                                      
+- STR:                                Open Locks:    25
+- INT:                                Remove Traps:  20
+- WIS:                                Pick Pocket:   30
+- DEX:                                Move Silently: 25
+- CON:                                Climb Walls:   80
+- CHA:                                Hide:          10
+                                      Listen:        30
+                                      
+                                      Sneak Attack: +4 AB
 
 Combat Statistics
 -----------------
 
 - AC: 
 - HP: 
-- AB: 
+- AB: +0
 
 - Movement: 
 
 ## Saving Throws
 
-Death Ray/Poison:
-Magic Wands:
-Paralysis/Stone:
-Dragon Breath:
-Rods/Staves/Spells:
+Death Ray/Poison:   13 (+4)
+Magic Wands:        14 (+4)
+Paralysis/Stone:    13 (+4)
+Dragon Breath:      16 (+3)
+Rods/Staves/Spells: 15 (+4)
 
 Possessions
 -----------
@@ -42,7 +45,10 @@ Money:
 Equipment:
 
 
-Weapon: AB: Damage: Range:
+Weapons:
 
-Notes:
+- Mace 1d8 +0
+
+Notes
+=====
 
