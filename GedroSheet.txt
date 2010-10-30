@@ -24,7 +24,7 @@ Ability Scores                        Special Abilities
 Combat Statistics
 -----------------
 
-- AC: 13
+- AC: 15
 - HP: 6
 - AB: +0
 
